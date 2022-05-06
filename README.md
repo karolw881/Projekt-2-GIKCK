@@ -59,8 +59,10 @@ trackbar :
 * transformacja potegowa 
 * mieszanie 
 
-Przykladowe zdjecie wykonane przeze mnie : 
+zabezpieczenie :
+gdy chcemy uzyc algorytmu zwiazanego z 2 zdjeciami i przez pomylke wybierzemy tylko jedno zdjecie aplikacja nie wykonana zadnej czynnosci 
 
+Przykladowe zdjecie wykonane przeze mnie : 
 
 ![2](https://user-images.githubusercontent.com/79966545/167134920-46ad2601-9d9f-4c0d-bd98-ea27a3ecc12a.jpg)
 
@@ -68,7 +70,7 @@ Przykladowe zdjecie wykonane przeze mnie :
 
 ![3](https://user-images.githubusercontent.com/79966545/167134969-3cb26633-1599-449f-bfd0-1a2385db3ace.jpg)
 
-
+![22](https://user-images.githubusercontent.com/79966545/167135442-7f7f848e-c1cc-4050-a39e-5785000f1de4.jpg)
 
  
 
