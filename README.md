@@ -61,15 +61,7 @@ trackbar :
 
 Przykladowe zdjecie wykonane przeze mnie : 
 
-![3](https://user-images.githubusercontent.com/79966545/167134692-8929f361-fc41-4865-b0c2-a803a793901c.jpg)
 
-![4](https://user-images.githubusercontent.com/79966545/167134703-f6a5a4ec-96c6-4566-bdfb-752e0a5a5176.jpg)
-
-![5](https://user-images.githubusercontent.com/79966545/167134709-438373e3-bc45-4b9c-8635-aa7a175f663d.jpg)
-
-![1](https://user-images.githubusercontent.com/79966545/167134666-f4190243-176c-4810-96d5-fc3d22f9a806.jpg)
-
-![2](https://user-images.githubusercontent.com/79966545/167134682-14c236eb-3001-4031-961c-5e23f8cad699.jpg)
-
+![2](https://user-images.githubusercontent.com/79966545/167134920-46ad2601-9d9f-4c0d-bd98-ea27a3ecc12a.jpg)
 
 
