@@ -64,4 +64,12 @@ Przykladowe zdjecie wykonane przeze mnie :
 
 ![2](https://user-images.githubusercontent.com/79966545/167134920-46ad2601-9d9f-4c0d-bd98-ea27a3ecc12a.jpg)
 
+![5](https://user-images.githubusercontent.com/79966545/167134998-17c2a0a5-c659-4dff-9e2c-2d8fa2f4d705.jpg)
+
+![3](https://user-images.githubusercontent.com/79966545/167134969-3cb26633-1599-449f-bfd0-1a2385db3ace.jpg)
+
+
+![4](https://user-images.githubusercontent.com/79966545/167134984-cf758a24-554a-4997-a892-46077369f205.jpg)
+
+ 
 
