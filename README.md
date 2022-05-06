@@ -62,6 +62,9 @@ trackbar :
 zabezpieczenie :
 gdy chcemy uzyc algorytmu zwiazanego z 2 zdjeciami i przez pomylke wybierzemy tylko jedno zdjecie aplikacja nie wykonana zadnej czynnosci 
 
+resize:
+kazde wybrane zdjecie podlega zmiania wielkosci na sztywno ustalone pixele 
+
 Przykladowe zdjecie wykonane przeze mnie : 
 
 ![2](https://user-images.githubusercontent.com/79966545/167134920-46ad2601-9d9f-4c0d-bd98-ea27a3ecc12a.jpg)
