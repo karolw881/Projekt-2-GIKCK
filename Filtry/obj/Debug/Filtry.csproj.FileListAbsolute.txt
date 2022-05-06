@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Filtry\bin\Debug\Filtry.exe.config
+C:\Users\User\source\repos\Filtry\bin\Debug\Filtry.exe
+C:\Users\User\source\repos\Filtry\bin\Debug\Filtry.pdb
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.Form1.resources
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.Properties.Resources.resources
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.exe
+C:\Users\User\source\repos\Filtry\obj\Debug\Filtry.pdb
