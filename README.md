@@ -1,3 +1,1 @@
-# Projekt-2-GIKCK
-
-![1](https://user-images.githubusercontent.com/79966545/167119755-f45a4ea8-287a-48b7-8a64-5fb078cbb149.jpg)
+# Projekt-2-GIKCK![Zrzut ekranu (2)](https://user-images.githubusercontent.com/79966545/167119875-fd86eade-3917-42c3-b9fa-f3ac5b23bdd9.png)
